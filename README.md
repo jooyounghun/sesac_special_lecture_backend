@@ -22,8 +22,8 @@ uvicorn main:app --reload
 pip3 install cifar10
 ```
 
-### Input(sample image)
-![](https://github.com/jooyounghun/sesac_special_lecture_backend/blob/main/app/sample/airplane_sample.jpg)
+### Dataset(Cifar 10)
+![](https://github.com/jooyounghun/sesac_special_lecture_backend/blob/main/app/sample/cifar10.png)
 
 ### Prerequisites
 * fastapi 0.115.4
