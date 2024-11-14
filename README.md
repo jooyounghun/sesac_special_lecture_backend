@@ -22,6 +22,9 @@ uvicorn main:app --reload
 pip3 install cifar10
 ```
 
+### Input(sample image)
+![](https://github.com/jooyounghun/sesac_special_lecture_backend/blob/main/app/sample/airplane_sample.jpg)
+
 ### Prerequisites
 * fastapi 0.115.4
 * numpy 1.26.4
