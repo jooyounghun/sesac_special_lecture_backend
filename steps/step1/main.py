@@ -1,5 +1,10 @@
 '''
 스텝 1. Fastapi 구동해보기
+
+라이브러리 설치 목록
+pip install fastapi
+pip install "uvicorn[standard]"
+
 >> uvicorn main:app --reload
 '''
 
