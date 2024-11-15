@@ -17,12 +17,10 @@ pip install uvicorn
 ```
 uvicorn main:app --reload
 ```
-* [CIFAR 10 Dataset](!https://pypi.org/project/cifar10/) loading
-```
-pip3 install cifar10
-```
+
 
 ### Dataset(Cifar 10)
+
 ![](https://github.com/jooyounghun/sesac_special_lecture_backend/blob/main/app/sample/cifar10.png)
 
 ### Prerequisites
