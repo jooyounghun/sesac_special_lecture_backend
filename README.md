@@ -21,7 +21,7 @@ uvicorn main:app --reload
 
 ### Dataset(Cifar 10)
 
-![](https://github.com/jooyounghun/sesac_special_lecture_backend/blob/main/app/sample/cifar10.png)
+![](https://github.com/jooyounghun/sesac_special_lecture_backend/blob/main/steps/step2/sample/airplane_sample.jpg)
 
 ### Prerequisites
 * fastapi 0.115.4
